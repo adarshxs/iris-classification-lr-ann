@@ -18,13 +18,13 @@ I trained both the logistic regression model and the neural network model using 
 After training was complete, I plotted the loss and accuracy curves for both models using `matplotlib`. The loss curve showed how the loss changed over the epochs during training, while the accuracy curve showed how the accuracy on the test data changed over the epochs.
 
 ## Results are as follows:
-For data split 80:20 and batch size = 8 and random state = 1
+For data split 80:20 and batch size = 8 and random state = 1 and over 2000 epochs 
 
 ![image](https://user-images.githubusercontent.com/114558126/235588414-119812b0-1763-43b8-800b-d452e80f537a.png)
 ![image](https://user-images.githubusercontent.com/114558126/235588429-2384487d-c788-4a77-9ec8-0175e66f0de5.png)
 
 ---
-For data split 80:20 and batch size = 16 and random state = 0
+For data split 80:20 and batch size = 16 and random state = 0 and over 1000 epochs
 
 ![image](https://user-images.githubusercontent.com/114558126/235588902-60d055ad-c742-4b38-b3b7-a92c0bfce9eb.png)
 ![image](https://user-images.githubusercontent.com/114558126/235588901-4b217d24-3524-476d-bb6c-7a5eb9b002ac.png)
